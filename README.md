@@ -5,8 +5,8 @@ _A simple x86 operating system built from scratch to study OS development._
 SimpleOS is a minimal operating system designed to provide a hands-on understanding of how operating systems work at the lowest level. It includes a basic bootloader and a kernel written in assembly and C. The goal is to understand system bootstrapping, memory management, and basic OS functionality.
 
 ## **Features (Planned/Implemented)**
-- [x] Bootloader using NASM
-- [x] 32-bit Protected Mode transition
+- [ ] Bootloader using NASM
+- [ ] 32-bit Protected Mode transition
 - [ ] Basic kernel with printing to screen
 - [ ] Simple memory management (paging)
 - [ ] Keyboard input handling
